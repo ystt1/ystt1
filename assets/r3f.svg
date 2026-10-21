@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="215" viewBox="0 0 560 215" role="img" aria-label="R3F Car Demo: 3D driving, vehicle physics and follow cameras.">
- <rect x="1" y="1" width="558" height="213" rx="18" fill="#111820" stroke="#29343d"/>
- <rect x="1" y="25" width="3" height="48" rx="1.5" fill="#8cc8b3"/>
+ <rect x="1" y="1" width="558" height="213" rx="18" fill="#111827" stroke="#283449"/>
+ <rect x="1" y="25" width="3" height="48" rx="1.5" fill="#f9a8d4"/>
  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-
+ <text x="27" y="35" font-size="11" letter-spacing="2" fill="#7d8da8">SELECTED WORK / 04</text>
  <text x="27" y="76" font-size="26" font-weight="700" fill="#e2e8f0">R3F Car Demo</text>
- <text x="514" y="73" font-size="29" fill="#8cc8b3">↗</text>
+ <text x="514" y="73" font-size="29" fill="#f9a8d4">↗</text>
 
- <text x="27" y="113" font-size="13" fill="#94a3b8">3D driving, vehicle physics and follow cameras.</text>
- <path d="M27 141H533" stroke="#263247"/>
- <text x="27" y="176" font-size="12" fill="#a9b8d0">React · Three.js · React Three Fiber</text>
+ <text x="27" y="117" font-size="13" fill="#94a3b8">3D driving, vehicle physics and follow cameras.</text>
+ <path d="M27 148H533" stroke="#263247"/>
+ <text x="27" y="186" font-size="12" fill="#a9b8d0">React · Three.js · React Three Fiber</text>
  </g></svg>

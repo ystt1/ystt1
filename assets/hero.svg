@@ -1,9 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Phan Quốc Tuấn, Flutter developer at DVA Holdings, Ho Chi Minh City">
-<rect x="1" y="1" width="1198" height="238" rx="14" fill="#111820" stroke="#29343d"/>
-<rect x="45" y="48" width="3" height="143" rx="1.5" fill="#8cc8b3"/>
-<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-<text x="76" y="94" fill="#edf2f4" font-size="43" font-weight="650">Phan Quốc Tuấn</text>
-<text x="77" y="140" fill="#acc8bc" font-size="22">Flutter developer at DVA Holdings</text>
-<text x="78" y="182" fill="#8b99a5" font-size="16">Ho Chi Minh City, Vietnam</text>
-<text x="1123" y="183" text-anchor="end" fill="#5e707b" font-size="15">ystt1 / github</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Phan Quốc Tuấn — Flutter and Mobile Developer">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1328"/><stop offset="1" stop-color="#15162e"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+</defs>
+<style>
+ .float{animation:float 6s ease-in-out infinite} .pulse{animation:pulse 3s ease-in-out infinite}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+ @keyframes pulse{0%,100%{opacity:.3}50%{opacity:.9}}
+ @media(prefers-reduced-motion:reduce){.float,.pulse{animation:none}}
+ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+</style>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1060" cy="70" r="180" fill="#7c3aed" opacity=".06"/><circle cx="860" cy="290" r="140" fill="#0ea5e9" opacity=".06"/>
+<rect x="52" y="48" width="258" height="30" rx="15" fill="#173042"/>
+<circle cx="70" cy="63" r="4" fill="#5eead4" class="pulse"/>
+<text x="83" y="68" fill="#99f6e4" font-size="12" font-weight="600" letter-spacing="1.2">MOBILE DEVELOPMENT</text>
+<text x="50" y="153" font-size="54" font-weight="750" fill="#f1f5f9">Phan Quốc Tuấn<tspan fill="#38bdf8">.</tspan></text>
+<text x="53" y="202" font-size="25" font-weight="600" fill="url(#accent)">Flutter / Mobile Developer</text>
+<text x="53" y="242" font-size="17" fill="#94a3b8">Flutter · Dart · BLoC / Cubit</text>
+<text x="53" y="285" font-size="13" fill="#64748b" letter-spacing="1.8">ANDROID  /  iOS  /  REAL-TIME INTEGRATIONS</text>
+<g class="float">
+ <rect x="927" y="42" width="163" height="276" rx="27" fill="#0b1020" stroke="#3c496c" stroke-width="2"/>
+ <rect x="939" y="55" width="139" height="250" rx="18" fill="#161e36"/>
+ <rect x="982" y="60" width="52" height="7" rx="3.5" fill="#0b1020"/>
+ <rect x="953" y="92" width="43" height="43" rx="12" fill="#0b3448"/>
+ <path d="M982 102l-18 18 6 6 24-24z M976 120l-6 6 12 12h12z" fill="#38bdf8"/>
+ <rect x="953" y="154" width="109" height="9" rx="4" fill="#7183a7"/>
+ <rect x="953" y="173" width="78" height="6" rx="3" fill="#35415e"/>
+ <rect x="953" y="200" width="49" height="46" rx="9" fill="#213e55"/>
+ <rect x="1012" y="200" width="50" height="46" rx="9" fill="#332b56"/>
+ <path d="M961 234l10-12 8 5 15-18" fill="none" stroke="#38bdf8" stroke-width="2"/>
+ <circle cx="1037" cy="223" r="12" fill="none" stroke="#a78bfa" stroke-width="4" stroke-dasharray="54 22"/>
+ <rect x="953" y="265" width="109" height="23" rx="8" fill="url(#accent)"/>
+ <rect x="861" y="116" width="93" height="37" rx="10" fill="#132b3d" stroke="#24516b"/>
+ <text x="877" y="140" font-size="13" fill="#7dd3fc" font-weight="600">&lt;flutter /&gt;</text>
+ <rect x="1048" y="222" width="99" height="38" rx="10" fill="#29213e" stroke="#514371"/>
+ <text x="1066" y="247" font-size="13" fill="#c4b5fd" font-weight="600">real-time ↗</text>
+</g>
+<rect x="52" y="333" width="1096" height="2" rx="1" fill="url(#accent)" opacity=".6"/>
+</svg>
