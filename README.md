@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Phan Quốc Tuấn — Flutter / Mobile Developer" />
+  <img src="./assets/flutter-header.svg" width="100%" alt="Phan Quốc Tuấn — Flutter / Mobile Developer" />
 </p>
 
 <p align="center">
@@ -73,10 +73,10 @@ Also contributing to **Go / Hasura / PostgreSQL** and **Android / iOS delivery**
 ### Selected work
 
 <p align="center">
-  <a href="https://github.com/ystt1/Quiz_app_mobile"><img width="49%" src="./assets/quiz.svg" alt="Explore Quiz App — Flutter quiz and messaging app" /></a>
-  <a href="https://github.com/ystt1/HealthOnline"><img width="49%" src="./assets/health.svg" alt="Explore Health Booking — Flutter healthcare app" /></a><br />
-  <a href="https://github.com/ystt1/test_weather_api"><img width="49%" src="./assets/weather.svg" alt="Explore Weather App — Flutter weather and location app" /></a>
-  <a href="https://github.com/ystt1/r3f-car-demo"><img width="49%" src="./assets/r3f.svg" alt="Explore R3F Car Demo — React and Three.js driving demo" /></a>
+  <a href="https://github.com/ystt1/Quiz_app_mobile"><img width="49%" src="./assets/project-quiz.svg" alt="Explore Quiz App — Flutter quiz and messaging app" /></a>
+  <a href="https://github.com/ystt1/HealthOnline"><img width="49%" src="./assets/project-health.svg" alt="Explore Health Booking — Flutter healthcare app" /></a><br />
+  <a href="https://github.com/ystt1/test_weather_api"><img width="49%" src="./assets/project-weather.svg" alt="Explore Weather App — Flutter weather and location app" /></a>
+  <a href="https://github.com/ystt1/r3f-car-demo"><img width="49%" src="./assets/project-r3f.svg" alt="Explore R3F Car Demo — React and Three.js driving demo" /></a>
 </p>
 
 <p align="center">
