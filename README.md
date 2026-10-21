@@ -1,67 +1,94 @@
-# Phan Quốc Tuấn
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Phan Quốc Tuấn — Flutter / Mobile Developer at DVA Holdings" />
+</p>
 
-### Flutter / Mobile Developer
+<p align="center">
+  <a href="#-building-at-dva-holdings">What I build</a> &nbsp; · &nbsp;
+  <a href="#-my-toolbox">My toolbox</a> &nbsp; · &nbsp;
+  <a href="#-github-in-numbers">GitHub stats</a> &nbsp; · &nbsp;
+  <a href="#-selected-work">Selected work</a>
+</p>
 
-I build and maintain mobile applications at **DVA Holdings**, working across **DIVA Partner**, **DIVA Queen**, and **SEEDO**. My work spans Flutter features, real-time and native integrations, backend contributions, and Android/iOS release delivery.
+<br />
 
-I focus on maintainable architecture and the details that make apps reliable: session handling, interrupted workflows, state recovery, and platform behavior.
+### 👋 A little about me
 
-## Professional experience
+I'm **Tuấn**, a Flutter developer who enjoys turning complex workflows into apps that feel simple. At **DVA Holdings**, I work on staff, customer and SaaS products — from the first tap to real-time updates and the release pipeline.
 
-**DVA Holdings · Mobile Developer — Flutter**  
-Late 2024 – Present · Ho Chi Minh City, Vietnam
+**The details I enjoy:** clear state management, resilient sessions, native integrations, and making interrupted workflows recover gracefully.
 
-### DIVA Partner · Staff & CRM
+### 🚀 Building at DVA Holdings
 
-- Integrated SIP/WebRTC calling, call-state handling, floating call overlays, call history, and Android/iOS audio-session configuration.
-- Built real-time call monitoring with GraphQL subscriptions over WebSocket, including retry and cancellation controls.
-- Implemented interruption-aware audio recording with pause/resume, segmented capture, FFmpeg processing, and persisted-session recovery.
-- Delivered KPI and revenue dashboards, location-based attendance diagnostics, complaint workflows, and order/payment features.
-- Implemented Android App Links and iOS Universal Links with navigation deferred until login and app initialization.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### DIVA Queen · Customer & Loyalty
+**📞 DIVA Partner**  
+*Staff & CRM*
 
-- Built a seasonal shake-to-win experience using accelerometer input, timed BLoC phases, animated feedback, and reward APIs.
-- Implemented campaign missions, voucher claiming, gift inventory, gift-to-friend flows, and notification-driven navigation.
-- Developed medical-record preview and signature capture with WebView, a drawing canvas, image processing, and upload-state handling.
-- Contributed to persistent shopping carts, checkout, promotion-wallet payments, customer consent, and iOS tracking-consent integration.
+VoIP calling, live call monitoring, audio recording, KPI dashboards and business workflows.
 
-### SEEDO · SaaS Workforce Management
+</td>
+<td width="33%" valign="top">
 
-- Implemented tenant-domain onboarding with validation, server health checks, and tenant-specific GraphQL HTTP/WebSocket endpoints.
-- Adapted location-based attendance, shift/break rules, activity history, and precise-location permission guidance for shared-tenant workflows.
-- Integrated JWT sessions across GraphQL transports and improved logout behavior and sensitive-field log redaction.
+**✨ DIVA Queen**  
+*Customer & Loyalty*
 
-### Shared infrastructure & delivery
+Campaigns, shake-to-win experiences, signature capture, shopping carts and checkout.
 
-- Contributed Go/Hasura API actions, PostgreSQL migrations and SQL functions, request validation, and staff/branch access rules.
-- Implemented shared authentication flows, token-refresh deduplication, session guards, and Firebase initialization/error handling.
-- Maintained build flavors and Android/iOS release configuration; added GitHub Actions, Fastlane, and Firebase App Distribution automation.
-- Added widget/BLoC regression tests. Current work includes appointment calendar/timeline and customer appointment/rescheduling interfaces.
+</td>
+<td width="33%" valign="top">
 
-## Technical toolkit
+**🌱 SEEDO**  
+*SaaS Workforce*
 
-| Area | Technologies |
-| --- | --- |
-| Mobile & architecture | Flutter, Dart, BLoC/Cubit, Clean Architecture, GetIt/Injectable, Freezed |
-| APIs & real-time | GraphQL, REST, Dio, WebSocket, Socket.IO, JWT |
-| Native & device integration | SIP/WebRTC, audio sessions, FFmpeg, geolocation, App/Universal Links, WebView |
-| Data & backend | SQLite, Hive, Firebase Auth, Go, Hasura, PostgreSQL, Java/Spring Boot, MongoDB |
-| Quality & delivery | Widget/BLoC tests, GitHub Actions, Fastlane, Firebase App Distribution, build flavors |
+Tenant onboarding, location-based attendance, session handling and workforce workflows.
 
-## Selected public projects
+</td>
+</tr>
+</table>
 
-| Project | Highlights | Technologies |
-| --- | --- | --- |
-| [Quiz App](https://github.com/ystt1/Quiz_app_mobile) | Quiz creation/practice, study groups, result history, and real-time messaging. | Flutter, Cubit, REST, Socket.IO |
-| [Health Booking](https://github.com/ystt1/HealthOnline) · [Backend](https://github.com/ystt1/HealthOnlineBe) | Doctor discovery, appointment booking, prescriptions, and patient reviews. | Flutter, Cubit, Spring Boot, MongoDB |
-| [Souvenir Shop](https://github.com/ystt1/souvenir_shop_client_FE) | Product discovery, favorites, cart, and order management. | Flutter, BLoC, Firebase |
-| [Weather App](https://github.com/ystt1/test_weather_api) | Location-based weather, saved searches, local time, and date-aware refresh. | Flutter, WeatherAPI, SharedPreferences |
-| [R3F Car Demo](https://github.com/ystt1/r3f-car-demo) | A web experiment with vehicle physics, selectable cars, and a follow camera. | React, Three.js, React Three Fiber |
+↳ Also contributing to **Go / Hasura / PostgreSQL** and **Android / iOS delivery** with GitHub Actions, Fastlane and Firebase App Distribution.
 
-## Education
+### 🧰 My toolbox
 
-**B.Sc. in Software Engineering** · University of Information Technology, VNU-HCM  
-2021 – 2026
+<p align="center">
+  <img src="./assets/toolbox.svg" width="100%" alt="My toolbox: Flutter, Dart, BLoC, GraphQL, Go, PostgreSQL, Firebase, WebSocket, REST APIs, GitHub Actions, Java/Spring, React/Three.js" />
+</p>
 
-**English:** TOEIC Listening & Reading 855 · Speaking & Writing 280
+<p align="center">
+  <sub>BLoC / Cubit &nbsp; · &nbsp; Clean Architecture &nbsp; · &nbsp; SIP / WebRTC &nbsp; · &nbsp; WebSocket &nbsp; · &nbsp; REST &nbsp; · &nbsp; CI/CD</sub>
+</p>
+
+### 📊 GitHub in numbers
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ystt1&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111827&amp;title_color=38bdf8&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;hide_rank=true&amp;cache_seconds=21600" alt="GitHub public statistics for ystt1" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ystt1&amp;hide_border=true&amp;background=111827&amp;ring=38bdf8&amp;fire=A78BFA&amp;currStreakLabel=38bdf8&amp;sideLabels=CBD5E1&amp;currStreakNum=E2E8F0&amp;sideNums=E2E8F0&amp;dates=94A3B8&amp;stroke=283449" alt="GitHub contribution streak for ystt1" />
+</p>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ystt1&amp;theme=tokyonight" alt="Public GitHub contribution activity over time" />
+</p>
+<p align="center">
+  <sub>Public GitHub activity · Much of my day-to-day work lives in private organization repositories.</sub>
+</p>
+
+### 🛠 Selected work
+
+<p align="center">
+  <a href="https://github.com/ystt1/Quiz_app_mobile"><img width="49%" src="./assets/quiz.svg" alt="Explore Quiz App — Flutter quiz and messaging app" /></a>
+  <a href="https://github.com/ystt1/HealthOnline"><img width="49%" src="./assets/health.svg" alt="Explore Health Booking — Flutter healthcare app" /></a><br />
+  <a href="https://github.com/ystt1/test_weather_api"><img width="49%" src="./assets/weather.svg" alt="Explore Weather App — Flutter weather and location app" /></a>
+  <a href="https://github.com/ystt1/r3f-car-demo"><img width="49%" src="./assets/r3f.svg" alt="Explore R3F Car Demo — React and Three.js driving demo" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ystt1?tab=repositories">Explore all repositories ↗</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Good software feels simple. The engineering behind it is thoughtful.</b><br /><br />
+  <sub>Software Engineering · UIT, VNU-HCM &nbsp; / &nbsp; Flutter · Real-time · Mobile delivery</sub>
+</p>
